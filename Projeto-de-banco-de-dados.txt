@@ -1,0 +1,31 @@
+PROJETO DE BANCO DE DADOS
+
+-Contexto: Levantamento de Requisitos;
+-Projeto Conceitual: Modelo ER;
+-Projeto Lógico: Modelo Relacional;
+
+Projeto de Ecommerce:
+
+Venda de Produtos
+
+-Produto
+-Cliente
+-Pedido
+
+Narrativa - Produto: 
+Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos(terceiros);
+Cada produto possui um fornecedor;
+Um ou mais produtos podem compor um pedido;
+
+Narrativa - Cliente:
+O cliente pode se cadastrar no site com seu CPF ou CNPJ;
+O endereço do clinete ira determinar o valor do frete;
+Um cliente pode comprar mais de um pedido. Este tem um perído de carência para a devolução do produto;
+
+Narrativa - Pedido:
+Os pedidos são cirados por clientes e possuem informações de compra, endereço e status de entrega;
+Um produto ou mais compoem o pedido;
+O pedido pode ser cancelado;
+
+Narrativa - Fornecedor & Estoque:
+

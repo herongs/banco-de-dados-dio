@@ -1,0 +1,17 @@
+O que é um banco de dados Relacional?
+
+Um banco de dados relacional é um tipo de banco de dados que armazena e fornece acesso a pontos de dados relacionados entre si. 
+Bancos de dados relacionais são baseados no modelo relacional, uma maneira intuitiva e direta de representar dados em tabelas. 
+Em um banco de dados relacional, cada linha na tabela é um registro com uma ID exclusiva chamada chave. 
+As colunas da tabela contêm atributos dos dados e cada registro geralmente tem um valor para cada atributo, facilitando o estabelecimento das relações entre os pontos de dados.
+
+
+Os bancos de dados SQL são relacionais, enquanto os bancos de dados NoSQL são não relacionais. 
+O sistema de gerenciamento de banco de dados relacional (RDBMS) é a base para a linguagem de consulta estruturada (SQL), que permite aos usuários acessar e manipular dados em tabelas altamente estruturadas. Este é o modelo básico para sistemas de banco de dados como MS SQL Server, IBM DB2, Oracle e MySQL. 
+Mas com bancos de dados NoSQL, a sintaxe de acesso a dados pode ser diferente de banco de dados para banco de dados.
+
+O que é Engenharia de Dados?
+
+Engenharia de Dados envolve coletar, armazenar e distribuir os dados. 
+Ela também é responsável por criar todo um pipeline, mantê-lo em execução e transformar os dados brutos em um formato útil para análise. 
+Isso requer conhecimento técnico e habilidade de comunicação para entender os objetivos da empresa ou do cliente.
